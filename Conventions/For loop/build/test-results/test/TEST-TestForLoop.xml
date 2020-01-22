@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestForLoop" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-01-21T16:55:16" hostname="tschmelmer-wsm.internal.salesforce.com" time="0.025">
+  <properties/>
+  <testcase name="testIterateOverDateRange" classname="TestForLoop" time="0.024"/>
+  <testcase name="testIterateOverEmptyRange" classname="TestForLoop" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
