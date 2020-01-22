@@ -5,7 +5,7 @@ files:
   visible: true
   placeholders:
   - offset: 120
-    length: 159
+    length: 149
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -18,7 +18,7 @@ files:
           })
     selected: true
     status: Solved
-  - offset: 342
+  - offset: 332
     length: 31
     placeholder_text: TODO()
     initial_state:
