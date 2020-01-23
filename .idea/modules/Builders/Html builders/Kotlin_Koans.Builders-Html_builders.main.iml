@@ -32,7 +32,7 @@
     <content url="file://$MODULE_DIR$/../../../../Builders/Html builders/src">
       <sourceFolder url="file://$MODULE_DIR$/../../../../Builders/Html builders/src" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="jdk" jdkName="1.8.0_181" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Kotlin_Koans.util.main" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.3.21" level="project" />

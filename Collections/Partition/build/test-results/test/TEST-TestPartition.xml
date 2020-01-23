@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestPartition" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-22T03:39:35" hostname="tschmelmer-wsm.internal.salesforce.com" time="0.038">
+<testsuite name="TestPartition" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-22T21:59:32" hostname="tschmelmer-wsm.internal.salesforce.com" time="0.036">
   <properties/>
-  <testcase name="testGetCustomersWhoHaveMoreUndeliveredOrdersThanDelivered" classname="TestPartition" time="0.038"/>
+  <testcase name="testGetCustomersWhoHaveMoreUndeliveredOrdersThanDelivered" classname="TestPartition" time="0.036"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

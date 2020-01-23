@@ -17,7 +17,7 @@ files:
       import kotlin.random.Random as KRandom
       import java.util.Random as JRandom
     selected: true
-    status: Solved
+    status: Unchecked
   - offset: 160
     length: 20
     placeholder_text: // KRandom.nextInt(2) +
@@ -27,7 +27,7 @@ files:
     initialized_from_dependency: false
     possible_answer: KRandom.nextInt(2) +
     selected: true
-    status: Solved
+    status: Unchecked
   - offset: 222
     length: 23
     placeholder_text: // JRandom().nextInt(2) +
@@ -37,7 +37,7 @@ files:
     initialized_from_dependency: false
     possible_answer: JRandom().nextInt(2) +
     selected: true
-    status: Solved
+    status: Unchecked
   text: |-
     // import kotlin.random.Random
     // import java.util.Random

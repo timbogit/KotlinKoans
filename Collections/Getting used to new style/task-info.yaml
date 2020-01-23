@@ -5,7 +5,7 @@ files:
   visible: true
   placeholders:
   - offset: 137
-    length: 8
+    length: 6
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -14,25 +14,25 @@ files:
     possible_answer: s.length
     selected: false
     status: Solved
-  - offset: 215
-    length: 10
+  - offset: 213
+    length: 6
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 213
     initialized_from_dependency: false
     possible_answer: group.size
-    selected: true
+    selected: false
     status: Solved
-  - offset: 291
-    length: 32
+  - offset: 285
+    length: 6
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 285
     initialized_from_dependency: false
     possible_answer: group.size == maximumSizeOfGroup
-    selected: true
+    selected: false
     status: Solved
   text: |
     fun doSomethingWithCollection(collection: Collection<String>): Collection<String>? {

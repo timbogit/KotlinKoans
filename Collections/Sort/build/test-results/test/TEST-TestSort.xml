@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSort" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-22T01:45:51" hostname="tschmelmer-wsm.internal.salesforce.com" time="0.044">
+<testsuite name="TestSort" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-22T21:58:00" hostname="tschmelmer-wsm.internal.salesforce.com" time="0.038">
   <properties/>
-  <testcase name="testGetCustomersSortedByNumberOfOrders" classname="TestSort" time="0.044"/>
+  <testcase name="testGetCustomersSortedByNumberOfOrders" classname="TestSort" time="0.038"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

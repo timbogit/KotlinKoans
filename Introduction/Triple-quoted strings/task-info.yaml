@@ -13,7 +13,7 @@ files:
     initialized_from_dependency: false
     possible_answer: .trimMargin("#")
     selected: true
-    status: Solved
+    status: Unchecked
   text: |-
     const val question = "life, the universe, and everything"
     const val answer = 42
